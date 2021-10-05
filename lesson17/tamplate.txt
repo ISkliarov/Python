@@ -1,0 +1,27 @@
+[
+	{
+		"email": "mauris.elit@nibhdonecest.net",
+		"phone": "1-125-638-8473",
+		"name": "Mallory Salazar"
+	},
+	{
+		"email": "posuere.at.velit@justo.org",
+		"phone": "1-495-447-9815",
+		"name": "Leslie Christensen"
+	},
+	{
+		"email": "hendrerit.neque@vehiculaetrutrum.net",
+		"phone": "1-922-121-3964",
+		"name": "Roanna Whitfield"
+	},
+	{
+		"email": "ac.tellus@facilisis.ca",
+		"phone": "1-884-549-3481",
+		"name": "Maggy Atkinson"
+	},
+	{
+		"email": "id@intel.com",
+		"phone": "1-151-873-8450",
+		"name": "Amber Sampson"
+	}
+]
